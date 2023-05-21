@@ -1,0 +1,17 @@
+.slider{
+    aspect-ratio: 10/16; /* Ponemos una relación de aspecto que quede bien con las imágenes */
+    width: 300px;
+    position: relative;
+    display: flex; /* Mostramos todo en fila */
+    overflow: scroll; /* Todas las imágenes que no caben las ocultamos a través de un scroll */
+    scroll-snap-type: x mandatory;/* El scroll va a ser siempre horizontal y quedará en un punto obligatorio */
+}
+
+.slider img{
+    width: 100%;
+    left: 0; /* Así quedan a la izquierda */
+    position: sticky; /* Para que hagan el efecto de pasar y moverse */
+    object-fit: cover; /* Hacemos que cubra la imagen */
+    border-radius: 5px;
+    scroll-snap-align: center; /* Al hacer scroll, alinea las imágenes en el centro */
+}
