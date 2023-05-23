@@ -16,9 +16,9 @@
     /* Usamos la animación que creamos para que dure 2 segundos y se repita de forma infinita */
     animation: loader 2s linear infinite;
     content: ''; /* El contenido vacío */
-    border: solid 10px black; 
-    width: 480px;
-    height: 480px;
+    border: solid 2px black; /* Para hacerlo más grande, podría el border a 10px y el width y height a 480px */
+    width: 48px;
+    height: 48px;
     position: absolute;
     border-radius: 50%; /* Ahora queda como un círculo */
 }
