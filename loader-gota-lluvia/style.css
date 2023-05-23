@@ -1,0 +1,29 @@
+/* Iniciamos con la animación del loader */
+@keyframes loader {
+    0%{ /* Al principio la escala es 0 y su opacidad es 1 */
+        transform: scale(0);
+        opacity: 1;
+    }
+
+    100%{ /* Al terminar la animación los valores son inversos */
+        transform: scale(1);
+        opacity: 0;
+    }
+}
+
+/* Pseudoelementos before y after */
+.loader::before, .loader::after{
+    /* Usamos la animación que creamos para que dure 2 segundos y se repita de forma infinita */
+    animation: loader 2s linear infinite;
+    content: ''; /* El contenido vacío */
+    border: solid 10px black; 
+    width: 480px;
+    height: 480px;
+    position: absolute;
+    border-radius: 50%; /* Ahora queda como un círculo */
+}
+
+.loader::after{
+    opacity: 0; /* Así queda el efecto de desaparecer poco a poco */
+    animation-delay: 1s; /* La animación dura 2 segundos y ahora añadimos que se retarda un segundo más, por lo que se atrapa constantemente y conseguimos el efecto gota de lluvia  */
+}
