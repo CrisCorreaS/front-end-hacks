@@ -31,3 +31,5 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 - **desplegable-radio-button** 
 - **slider-horizontal** 
 - **loader-gota-lluvia**
+- **checkbox-cambia-sombra**
+- **galeria-imagenes-extensible**
