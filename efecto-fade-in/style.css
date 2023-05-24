@@ -1,0 +1,15 @@
+img{
+    animation: fadeIn 3s ease;
+}
+
+@keyframes fadeIn {
+    0%{
+        opacity: 0;
+        filter: blur(20px); /* Desenfoque de 20 píxeles */
+    }
+
+    10%{
+        opacity: 1;
+        filter: brightness(2) blur(10px); /* Le damos un poco de brillo y le quitamos un poco del desenfoque */
+    }
+}
