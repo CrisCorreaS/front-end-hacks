@@ -28,8 +28,11 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 
 ## Proyectos Solo con HTML y CSS:
 
-- **desplegable-radio-button** 
-- **slider-horizontal** 
-- **loader-gota-lluvia**
+- **button-sombras-coloreadas**
 - **checkbox-cambia-sombra**
+- **desplegable-radio-button**
+- **efecto-fade-in**
 - **galeria-imagenes-extensible**
+- **loader-gota-lluvia**
+- **slider-horizontal** 
+
