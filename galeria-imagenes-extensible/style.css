@@ -1,0 +1,21 @@
+section{
+    display: flex;
+    width: 600px;
+    height: 430px;
+}
+
+section img{
+    width: 0; /* El ancho es 0 */
+    flex-grow: 1; /* Dentro de la clase flexible tiene que ocupar el espacio que pueda */
+    object-fit: cover; /* Para que la imagen se vea bien, le decimos que ocupe todo el espacio */
+    opacity: 0.8;
+    transition: 0.5s ease;
+}
+
+/* Cuando estamos encima de la imagen con el puntero */
+section img:hover {
+    cursor: crosshair; /* Le cambiamos el cursor por una crucecita */
+    width: 300px; /* Le damos más ancho para que se abra */
+    opacity: 1; /* Le devolvemos la opacidad */
+    filter: contrast(120%);
+}
