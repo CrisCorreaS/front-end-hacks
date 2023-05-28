@@ -27,7 +27,7 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 ---
 ## Proyectos Solo con HTML:
 
-- **autocomplete-html**
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/autocomplete-html"><b>autocomplete-html</b></a>
 
 
 ## Proyectos Solo con HTML y CSS:
