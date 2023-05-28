@@ -40,6 +40,7 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 - **galeria-imagenes-extensible**
 - **loader-gota-lluvia**
 - **slider-horizontal** 
+- **texto-con-video** 
 
 
 ## Proyectos con HTML, CSS y JS:
