@@ -25,9 +25,14 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 ¡Espero que este repositorio sea de utilidad y ayude a impulsar tus proyectos de desarrollo!
 
 ---
+## Proyectos Solo con HTML:
+
+- **autocomplete-html**
+
 
 ## Proyectos Solo con HTML y CSS:
 
+- **button-cambia-color**
 - **button-sombras-coloreadas**
 - **checkbox-cambia-sombra**
 - **desplegable-radio-button**
@@ -36,3 +41,7 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 - **loader-gota-lluvia**
 - **slider-horizontal** 
 
+
+## Proyectos con HTML, CSS y JS:
+
+- **hover-3D**
