@@ -1,0 +1,34 @@
+button{
+    border: 0;
+    background-image: linear-gradient(
+        /* Rotamos 150º y hacemos que pase por 3 colores */
+        150deg,
+        #9500ff,
+        #09f,
+        #00DDFF
+    );
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    font-size: 18px;
+    padding: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button span{
+    background-color: #111;
+    padding: 16px 24px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+/* Cuando tengamos el cursor encima del botón el span va a hacer lo siguiente */
+button:hover span{
+    background: none;
+}
+
+/* Cuando el botón esté activo va a hacer lo siguiente */
+button:active{
+    transform: scale(0.9); /* Le cambiamos la escala por una un poquito menor */
+}
