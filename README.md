@@ -32,15 +32,16 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 
 ## Proyectos Solo con HTML y CSS:
 
-- **button-cambia-color**
-- **button-sombras-coloreadas**
-- **checkbox-cambia-sombra**
-- **desplegable-radio-button**
-- **efecto-fade-in**
-- **galeria-imagenes-extensible**
-- **loader-gota-lluvia**
-- **slider-horizontal** 
-- **texto-con-video** 
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/button-cambia-color"><b>button-cambia-color</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/button-sombras-coloreadas"><b>button-sombras-coloreadas</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/checkbox-cambia-sombra"><b>checkbox-cambia-sombra</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/desplegable-radio-button"><b>desplegable-radio-button</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/efecto-fade-in"><b>efecto-fade-in</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/foto-cambia-imagenes-segun-perspectiva"><b>foto-cambia-imagenes-segun-perspectiva</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/galeria-imagenes-extensible"><b>galeria-imagenes-extensible</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/loader-gota-lluvia"><b>loader-gota-lluvia</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/slider-horizontal"><b>slider-horizontal</b></a>
+- <a href="https://github.com/CrisCorreaS/front-end-hacks/tree/main/texto-con-video"><b>texto-con-video</b></a>
 
 
 ## Proyectos con HTML, CSS y JS:
