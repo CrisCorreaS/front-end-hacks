@@ -50,3 +50,6 @@ Quiero agradecer a la comunidad de desarrolladores por su constante contribució
 ## Proyectos con HTML, CSS y JS:
 
 - **hover-3D**
+
+## Licencia
+Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
